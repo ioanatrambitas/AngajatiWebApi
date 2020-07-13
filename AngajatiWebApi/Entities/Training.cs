@@ -17,7 +17,7 @@ namespace AngajatiWebApi.Entities
         //durata cursului 
         [Required]
         public int Period { get; set; }
-
+         
         [Required]
         public double Price { get; set; }
 

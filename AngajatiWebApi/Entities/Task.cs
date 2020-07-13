@@ -20,7 +20,10 @@ namespace AngajatiWebApi.Entities
         public Guid TrainingId { get; set; }
 
         [ForeignKey("TrainingId")]
-        public virtual Training Traing { get; set; }
+        public virtual Training Training { get; set; }
+
+        [Required]
+        public double PayPerHour { get; set; }
 
         public bool? Deleted { get; set; }
 

@@ -13,7 +13,7 @@ namespace AngajatiWebApi.Entities
         public Guid ID { get; set; }
 
         [MaxLength(150)]
-        public string FirstName {get;set;}
+        public string FirstName {get;set;} 
 
         [MaxLength(150)]
         public string LastName { get; set; }

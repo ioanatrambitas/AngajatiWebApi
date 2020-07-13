@@ -36,6 +36,10 @@ namespace AngajatiWebApi.Entities
         [MaxLength(150)]
         public string Place { get; set; }
 
+        public double PayPerDay { get; set; }
+
+        public double TotalPay { get; set; }
+
         public bool? Deleted { get; set; } 
 
     }
