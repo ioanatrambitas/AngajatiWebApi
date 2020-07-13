@@ -14,7 +14,7 @@ namespace AngajatiWebApi.Entities
         [Required]
         [MaxLength(150)]
         public string TrainingName { get; set; }
-        //durata cursului
+        //durata cursului 
         [Required]
         public int Period { get; set; }
 

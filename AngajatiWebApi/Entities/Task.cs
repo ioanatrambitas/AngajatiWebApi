@@ -15,7 +15,7 @@ namespace AngajatiWebApi.Entities
         [Required]
         [MaxLength(150)]
         public string TaskName { get; set; }
-
+          
         [Required]
         public Guid TrainingId { get; set; }
 

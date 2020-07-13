@@ -25,6 +25,6 @@ namespace AngajatiWebApi.Entities
         public string Password { get; set; }
 
         public bool? Deleted { get; set; }
-
+  
     }
 }

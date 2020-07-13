@@ -36,7 +36,7 @@ namespace AngajatiWebApi.Entities
         [MaxLength(150)]
         public string Place { get; set; }
 
-        public bool? Deleted { get; set; }
+        public bool? Deleted { get; set; } 
 
     }
 }
