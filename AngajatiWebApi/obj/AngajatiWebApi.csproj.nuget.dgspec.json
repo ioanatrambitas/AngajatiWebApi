@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ioana Trambitas\\source\\repos\\AngajatiWebApi\\AngajatiWebApi\\AngajatiWebApi.csproj": {}
+    "C:\\Users\\Ioana Trambitas\\Source\\Repos\\ioanatrambitas\\AngajatiWebApi\\AngajatiWebApi\\AngajatiWebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ioana Trambitas\\source\\repos\\AngajatiWebApi\\AngajatiWebApi\\AngajatiWebApi.csproj": {
+    "C:\\Users\\Ioana Trambitas\\Source\\Repos\\ioanatrambitas\\AngajatiWebApi\\AngajatiWebApi\\AngajatiWebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ioana Trambitas\\source\\repos\\AngajatiWebApi\\AngajatiWebApi\\AngajatiWebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Ioana Trambitas\\Source\\Repos\\ioanatrambitas\\AngajatiWebApi\\AngajatiWebApi\\AngajatiWebApi.csproj",
         "projectName": "AngajatiWebApi",
-        "projectPath": "C:\\Users\\Ioana Trambitas\\source\\repos\\AngajatiWebApi\\AngajatiWebApi\\AngajatiWebApi.csproj",
+        "projectPath": "C:\\Users\\Ioana Trambitas\\Source\\Repos\\ioanatrambitas\\AngajatiWebApi\\AngajatiWebApi\\AngajatiWebApi.csproj",
         "packagesPath": "C:\\Users\\Ioana Trambitas\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ioana Trambitas\\source\\repos\\AngajatiWebApi\\AngajatiWebApi\\obj\\",
+        "outputPath": "C:\\Users\\Ioana Trambitas\\Source\\Repos\\ioanatrambitas\\AngajatiWebApi\\AngajatiWebApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,6 +40,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[3.1.5, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

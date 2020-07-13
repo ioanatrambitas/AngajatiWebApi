@@ -1,0 +1,10 @@
+C:\Users\Ioana Trambitas\Source\Repos\ioanatrambitas\AngajatiWebApi\AngajatiWebApi\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Ioana Trambitas\Source\Repos\ioanatrambitas\AngajatiWebApi\AngajatiWebApi\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Ioana Trambitas\Source\Repos\ioanatrambitas\AngajatiWebApi\AngajatiWebApi\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\Ioana Trambitas\Source\Repos\ioanatrambitas\AngajatiWebApi\AngajatiWebApi\bin\Debug\netcoreapp3.1\AngajatiWebApi.exe
+C:\Users\Ioana Trambitas\Source\Repos\ioanatrambitas\AngajatiWebApi\AngajatiWebApi\obj\Debug\netcoreapp3.1\AngajatiWebApi.csprojAssemblyReference.cache
+C:\Users\Ioana Trambitas\Source\Repos\ioanatrambitas\AngajatiWebApi\AngajatiWebApi\obj\Debug\netcoreapp3.1\AngajatiWebApi.AssemblyInfoInputs.cache
+C:\Users\Ioana Trambitas\Source\Repos\ioanatrambitas\AngajatiWebApi\AngajatiWebApi\obj\Debug\netcoreapp3.1\AngajatiWebApi.AssemblyInfo.cs
+C:\Users\Ioana Trambitas\Source\Repos\ioanatrambitas\AngajatiWebApi\AngajatiWebApi\obj\Debug\netcoreapp3.1\AngajatiWebApi.RazorTargetAssemblyInfo.cache
+C:\Users\Ioana Trambitas\Source\Repos\ioanatrambitas\AngajatiWebApi\AngajatiWebApi\obj\Debug\netcoreapp3.1\staticwebassets\AngajatiWebApi.StaticWebAssets.Manifest.cache
+C:\Users\Ioana Trambitas\Source\Repos\ioanatrambitas\AngajatiWebApi\AngajatiWebApi\obj\Debug\netcoreapp3.1\staticwebassets\AngajatiWebApi.StaticWebAssets.xml
