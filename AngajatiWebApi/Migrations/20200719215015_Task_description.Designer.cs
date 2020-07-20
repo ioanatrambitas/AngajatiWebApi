@@ -4,14 +4,16 @@ using AngajatiWebApi.Contexts;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 
 namespace AngajatiWebApi.Migrations
 {
     [DbContext(typeof(EmployeeContext))]
-    partial class EmployeeContextModelSnapshot : ModelSnapshot
+    [Migration("20200719215015_Task_description")]
+    partial class Task_description
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -28,7 +30,7 @@ namespace AngajatiWebApi.Migrations
                     b.Property<bool?>("Deleted")
                         .HasColumnType("bit");
 
-                    b.Property<string>("Details")
+                    b.Property<string>("Description")
                         .HasColumnType("nvarchar(2500)")
                         .HasMaxLength(2500);
 

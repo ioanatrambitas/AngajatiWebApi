@@ -36,7 +36,10 @@ namespace AngajatiWebApi
 
             // SS: Adding services on the container
             services.AddScoped<IUserRepository, UserRepository>();
+            services.AddScoped<ITaskRepository, TaskRepository>();
+            services.AddScoped<ITrainingRepository, TrainingRepository>();
             services.AddScoped<IUserUnitOfWork, UserUnitOfWork>();
+            services.AddScoped<ITaskUnitOfWork, TaskUnitOfWork>();
             services.AddControllers();
             services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
         }
